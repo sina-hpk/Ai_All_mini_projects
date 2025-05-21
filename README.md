@@ -1,35 +1,60 @@
 # Ai_Machine-Learning-Project
 
-## 📄 (HW1)
+این مخزن شامل مجموعه پروژه‌های کوچک و تمرینات درس **AI4032 - مقدمه‌ای بر یادگیری ماشین** می‌باشد.
 
-The report for **Homework 1** is available in the file:
-- `REPORT_HW1_SINA_HASANPOUR.pdf`
+---
 
+## 📄 HW1
 
-# Mini Project MP1 - AI4032
+The report for **Homework 1** is available in the following file:
+
+- [`REPORT_HW1_SINA_HASANPOUR.pdf`](./HW1/REPORT_HW1_SINA_HASANPOUR.pdf)
+
+---
+
+## 🧩 Mini Project MP1 - AI4032
 
 This repository contains the submission for **Mini Project 1 (MP1)** of the course **AI4032 - Introduction to Machine Learning**.
 
-## 📁 Contents
-The following files are part of this project:
+### 📁 Folder: [`MP1/`](./MP1)
 
-- `Ai4032_MP1_40216723.ipynb`: The full implementation in Google Colab notebook, including data preprocessing, visualization, and modeling.
-- `mp1_lr_dataset_ai4032.csv`: The main dataset used for linear regression and data analysis.
-- `Titanic-Dataset.csv`: An additional dataset (possibly for another part of the project).
-- `Titanic.pdf`: The report or additional documentation related to the Titanic dataset analysis.
+### 📄 Contents:
+- `Ai4032_MP1_40216723.ipynb`: Full implementation in Google Colab.
+- `mp1_lr_dataset_ai4032.csv`: Dataset for linear regression.
+- `Titanic-Dataset.csv`: Additional dataset.
+- `Titanic.pdf`: Report related to Titanic dataset analysis.
 
-
-## 🧠 Project Summary
-
-This project includes:
-
+### 🧠 Project Summary:
 - Data preprocessing and visualization
-- Linear regression on different data rows
-- Robust regression (Huber and RANSAC)
-- Multivariate modeling and 3D analysis
-- Comparison between models and evaluation using MSE
+- Linear regression and multivariate modeling
+- Robust regression (Huber, RANSAC)
+- 3D visualization and model evaluation
 
-## 📌 Author
-Sina Hasanpour  
-Student ID: 40216723
+---
 
+## 🤖 Mini Project MP2 - AI4032
+
+This folder includes the full implementation and report for **Mini Project 2 (MP2)**, focused on binary image recognition using neural networks.
+
+### 📁 Folder: [`MP2/`](./MP2)
+
+### 📄 Contents:
+- `AI4032_MP2_Q1.ipynb` – Image binarization and pixel manipulation
+- `AI4032_MP2_Q2.ipynb` – Perceptron-based shape detection
+- `AI4032_MP2_Q3.ipynb` – Hamming network classification with noise
+- `AI4032_MP2_Q4.ipynb` – CNN-based recognition (optional)
+- `REPORT_AI4032_MP2.pdf` – Full project report with results and analysis
+
+### 🧠 Project Highlights:
+- Image-to-vector conversion for Persian characters
+- Adding synthetic noise and missing points
+- Implementation of Hamming networks
+- Comparison of shallow and deep learning methods
+
+---
+
+## 👤 Author
+**Sina Hasanpour**  
+Student ID: `40216723`
+
+---
